@@ -1,0 +1,39 @@
+Order 1 Chicken $12.97
+ - Fried Chicken 
+ - Spicy Sauce 
+ - Pickles
+ - American Cheese $1.99
+ - Basil Pesto $1.99
+Order 2 Beef $14.97
+ - Roast Beef 
+ - Provolone Cheese 
+ - Mustard
+ - American Cheese $1.99
+ - Basil Pesto $1.99
+Order 3 Fish $16.97
+ - Grilled Snapper 
+ - Cilantro 
+ - Lime
+ - American Cheese $1.99
+ - Basil Pesto $1.99
+Order 4 Beef $18.95
+ - Roast Beef 
+ - Provolone Cheese 
+ - Mustard
+ - American Cheese $1.99
+ - Basil Pesto $1.99
+ - Caramelized Onions $1.99
+ - Cole Slaw $1.99
+Order 5 Beef $14.97
+ - Roast Beef 
+ - Provolone Cheese 
+ - Mustard
+ - American Cheese $1.99
+ - Basil Pesto $1.99
+Order 6 Fish $16.97
+ - Grilled Snapper 
+ - Cilantro 
+ - Lime
+ - American Cheese $1.99
+ - Basil Pesto $1.99
+Total Price : $95.80

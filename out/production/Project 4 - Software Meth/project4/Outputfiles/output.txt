@@ -1,0 +1,37 @@
+Order 1 Chicken $8.99
+ - Fried Chicken 
+ - Spicy Sauce 
+ - Pickles
+Order 2 Chicken $8.99
+ - Fried Chicken 
+ - Spicy Sauce 
+ - Pickles
+Order 3 Chicken $8.99
+ - Fried Chicken 
+ - Spicy Sauce 
+ - Pickles
+Order 4 Chicken $8.99
+ - Fried Chicken 
+ - Spicy Sauce 
+ - Pickles
+Order 5 Chicken $8.99
+ - Fried Chicken 
+ - Spicy Sauce 
+ - Pickles
+Order 6 Chicken $8.99
+ - Fried Chicken 
+ - Spicy Sauce 
+ - Pickles
+Order 7 Chicken $8.99
+ - Fried Chicken 
+ - Spicy Sauce 
+ - Pickles
+Order 8 Chicken $8.99
+ - Fried Chicken 
+ - Spicy Sauce 
+ - Pickles
+Order 9 Chicken $8.99
+ - Fried Chicken 
+ - Spicy Sauce 
+ - Pickles
+Total Price : $80.91
